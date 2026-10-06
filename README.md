@@ -67,7 +67,7 @@ Each task must be completed using an iterative process involving LLM suggestions
 - Interceptors detonate on arrival at their target, not partway there
 - An explosion destroys any incoming missile whose head is within its current blast radius
 - A missile that isn't intercepted destroys whatever it was aimed at (city or battery) on impact
-- The game ends when every city has been destroyed
+- The game ends when every city has been destroyed.
 
 ---
 
